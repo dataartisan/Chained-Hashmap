@@ -1,0 +1,472 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:Program.cs" caret="0" fromTop="0" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:UnitTest.cs" caret="343" fromTop="0" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:HashFunctionsTest.cs" caret="561" fromTop="22" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="524" fromTop="10" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:HashFunctions.cs" caret="245" fromTop="6" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="11064" fromTop="218" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="27551" fromTop="25" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="28164" fromTop="21" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="31308" fromTop="34" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="28963" fromTop="2" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="29682" fromTop="18" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="30403" fromTop="23" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="28561" fromTop="6" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="29280" fromTop="22" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="30001" fromTop="24" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="30724" fromTop="17" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="31155" fromTop="28" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="17915" fromTop="26" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="17915" fromTop="27" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:UnitTest.cs" caret="175" fromTop="4" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:HashFunctions.cs" caret="245" fromTop="6" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="733" fromTop="8" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="31324" fromTop="8" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="11456" fromTop="17" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="568" fromTop="7" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="720" fromTop="7" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="2147" fromTop="25" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="10844" fromTop="20" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:TestMethods.cs" caret="12135" fromTop="11" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="17915" fromTop="19" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="17921" fromTop="8" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="17921" fromTop="13" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="17915" fromTop="4" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:UnitTest.cs" caret="306" fromTop="11" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="17915" fromTop="24" />
+      <File id="35176E14-791C-4124-A8B1-BE6B78EA65F2/f:ChainedHashMap.cs" caret="17921" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="HashSet" priority="31" />
+      <Item value="ChainedHashMapImplementation" priority="63" />
+      <Item value="using" priority="154" />
+      <Item value="System" priority="92" />
+      <Item value="Collections" priority="53" />
+      <Item value="IDictionary`0" priority="255" />
+      <Item value="int" priority="3502" />
+      <Item value="object" priority="607" />
+      <Item value="public" priority="1370" />
+      <Item value="ChainedHashMap`0" priority="95" />
+      <Item value="_keys" priority="32" />
+      <Item value="Diagnostics" priority="26" />
+      <Item value="class" priority="278" />
+      <Item value="private" priority="479" />
+      <Item value="TKey`0" priority="2004" />
+      <Item value="TValue`0" priority="1854" />
+      <Item value="key" priority="1503" />
+      <Item value="this" priority="223" />
+      <Item value="value" priority="255" />
+      <Item value="ToInteger" priority="63" />
+      <Item value="KeyNotFoundException`0" priority="159" />
+      <Item value="return" priority="2079" />
+      <Item value="_hashFunction" priority="95" />
+      <Item value="IToInteger" priority="191" />
+      <Item value="true" priority="639" />
+      <Item value="hashKey" priority="127" />
+      <Item value="new" priority="2783" />
+      <Item value="ChainedHashMap" priority="583" />
+      <Item value="c" priority="31" />
+      <Item value="_table" priority="63" />
+      <Item value="var" priority="2079" />
+      <Item value="String`0" priority="63" />
+      <Item value="Double`0" priority="63" />
+      <Item value="double" priority="95" />
+      <Item value="num" priority="127" />
+      <Item value="string" priority="223" />
+      <Item value="temp" priority="255" />
+      <Item value="lastTwo" priority="127" />
+      <Item value="lastThree" priority="127" />
+      <Item value="ToString`0" priority="80" />
+      <Item value="stringtoSplit" priority="31" />
+      <Item value="args" priority="31" />
+      <Item value="hashModule" priority="31" />
+      <Item value="HashFunction" priority="31" />
+      <Item value="Text" priority="26" />
+      <Item value="LinkedList" priority="993" />
+      <Item value="k`0" priority="733" />
+      <Item value="pos" priority="63" />
+      <Item value="TableSize" priority="415" />
+      <Item value="item" priority="991" />
+      <Item value="HashTable" priority="159" />
+      <Item value="KeyValuePair" priority="1752" />
+      <Item value="index" priority="383" />
+      <Item value="BindingList&lt;KeyValuePair&lt;k,v&gt;&gt;" priority="28" />
+      <Item value="keyva" priority="63" />
+      <Item value="Hashtable`0" priority="127" />
+      <Item value="KeyValuePair&lt;int,LinkedList&lt;KeyValuePair&lt;k,v&gt;&gt;&gt;" priority="28" />
+      <Item value="keyValuePair" priority="159" />
+      <Item value="Int32`0" priority="703" />
+      <Item value="kvPair" priority="543" />
+      <Item value="_hashfunction" priority="159" />
+      <Item value="_tableSize" priority="127" />
+      <Item value="_hashTable" priority="607" />
+      <Item value="Generic" priority="26" />
+      <Item value="for" priority="319" />
+      <Item value="FormatException`0" priority="32" />
+      <Item value="i" priority="223" />
+      <Item value="GetIndex`0" priority="95" />
+      <Item value="indexPos" priority="190" />
+      <Item value="List" priority="379" />
+      <Item value="kVPair" priority="63" />
+      <Item value="null" priority="383" />
+      <Item value="_internalList" priority="63" />
+      <Item value="List&lt;KeyValuePair&lt;k,v&gt;&gt;" priority="28" />
+      <Item value="Count" priority="95" />
+      <Item value="ChainedHashMap&lt;TKey,TValue&gt;" priority="86" />
+      <Item value="Values" priority="319" />
+      <Item value="Keys" priority="288" />
+      <Item value="hasher" priority="96" />
+      <Item value="void" priority="767" />
+      <Item value="_keyValuePairList" priority="31" />
+      <Item value="List&lt;KeyValuePair&lt;TKey,TValue&gt;&gt;" priority="28" />
+      <Item value="List&lt;KeyValuePair&lt;int,List&lt;KeyValuePair&lt;TKey,TValue&gt;&gt;&gt;&gt;" priority="28" />
+      <Item value="InitializeObject`0" priority="63" />
+      <Item value="base" priority="127" />
+      <Item value="_dictionary" priority="383" />
+      <Item value="count" priority="191" />
+      <Item value="false" priority="479" />
+      <Item value="Dictionary" priority="210" />
+      <Item value="size" priority="350" />
+      <Item value="LinkedList&lt;KeyValuePair&lt;TKey,TValue&gt;&gt;" priority="115" />
+      <Item value="Remove`0" priority="95" />
+      <Item value="linkedList" priority="348" />
+      <Item value="tKeyValuePair" priority="64" />
+      <Item value="in" priority="191" />
+      <Item value="values" priority="159" />
+      <Item value="_hashTableList" priority="63" />
+      <Item value="sizeof" priority="31" />
+      <Item value="char" priority="28" />
+      <Item value="split" priority="31" />
+      <Item value="NetTcpStyleUriParser`0" priority="31" />
+      <Item value="Key" priority="31" />
+      <Item value="EnvironmentVariableTarget`0" priority="127" />
+      <Item value="while" priority="31" />
+      <Item value="sum" priority="31" />
+      <Item value="IsReadOnly" priority="63" />
+      <Item value="LastThree`0" priority="32" />
+      <Item value="myKey" priority="1151" />
+      <Item value="if" priority="639" />
+      <Item value="else" priority="415" />
+      <Item value="default" priority="95" />
+      <Item value="_linkedList" priority="543" />
+      <Item value="NUnit.Framework" priority="61" />
+      <Item value="TestFixture" priority="127" />
+      <Item value="Testing`0" priority="63" />
+      <Item value="_dict" priority="31" />
+      <Item value="IDictionary" priority="31" />
+      <Item value="dictionary" priority="64" />
+      <Item value="_chainedHash" priority="32" />
+      <Item value="_chainedHashMap" priority="255" />
+      <Item value="SetUp" priority="31" />
+      <Item value="AssemblyLoadEventArgs`0" priority="31" />
+      <Item value="Assert`0" priority="191" />
+      <Item value="ChainedHashMap&lt;int,object&gt;" priority="347" />
+      <Item value="keysList" priority="159" />
+      <Item value="t" priority="31" />
+      <Item value="linkedListNode" priority="31" />
+      <Item value="FileAssert`0" priority="31" />
+      <Item value="Add`0" priority="63" />
+      <Item value="tempKey" priority="95" />
+      <Item value="HashFunctions`0" priority="648" />
+      <Item value="Hashfunction" priority="31" />
+      <Item value="j" priority="62" />
+      <Item value="List&lt;LinkedList&lt;KeyValuePair&lt;int,object&gt;&gt;&gt;" priority="57" />
+      <Item value="ListLinkedList" priority="2463" />
+      <Item value="GetHashCode`0" priority="447" />
+      <Item value="keyPos" priority="191" />
+      <Item value="list" priority="31" />
+      <Item value="foreach" priority="95" />
+      <Item value="KeyValuePair&lt;int,object&gt;" priority="57" />
+      <Item value="newLinkedList" priority="127" />
+      <Item value="LinkedListNode&lt;TKey&gt;" priority="28" />
+      <Item value="KeyValuePair&lt;TKey,TValue&gt;" priority="205" />
+      <Item value="NotImplementedException`0" priority="31" />
+      <Item value="myPost" priority="95" />
+      <Item value="myPos" priority="927" />
+      <Item value="myKeyValuePair" priority="31" />
+      <Item value="keyValuePairs" priority="63" />
+      <Item value="throw" priority="319" />
+      <Item value="NotImplementedException" priority="28" />
+      <Item value="Exception" priority="174" />
+      <Item value="Equals`0" priority="53" />
+      <Item value="myKeyPos" priority="31" />
+      <Item value="MyList" priority="31" />
+      <Item value="enums" priority="63" />
+      <Item value="IEnumerable`0" priority="63" />
+      <Item value="hashModuloConstant" priority="31" />
+      <Item value="Test" priority="31" />
+      <Item value="anyDictionary" priority="801" />
+      <Item value="TestCount`0" priority="31" />
+      <Item value="moduloConstant" priority="95" />
+      <Item value="Random`0" priority="63" />
+      <Item value="Random" priority="86" />
+      <Item value="NewTests`0" priority="95" />
+      <Item value="start" priority="63" />
+      <Item value="testDirections" priority="31" />
+      <Item value="TestPerformance`0" priority="31" />
+      <Item value="ContainsKeyPerformance`0" priority="162" />
+      <Item value="TestDelegates`0" priority="95" />
+      <Item value="AddDuplicateTest`0" priority="32" />
+      <Item value="r" priority="127" />
+      <Item value="Int16`0" priority="53" />
+      <Item value="Stopwatch`0" priority="31" />
+      <Item value="Stopwatch" priority="59" />
+      <Item value="sw" priority="159" />
+      <Item value="AddRandomThings`0" priority="95" />
+      <Item value="_t" priority="319" />
+      <Item value="dObject" priority="319" />
+      <Item value="bool" priority="63" />
+      <Item value="found" priority="159" />
+      <Item value="k" priority="31" />
+      <Item value="try" priority="31" />
+      <Item value="AddRandomValues`0" priority="31" />
+      <Item value="random" priority="63" />
+      <Item value="myListLinkedList" priority="31" />
+      <Item value="newListlinkList" priority="31" />
+      <Item value="Contains`0" priority="31" />
+      <Item value="containsKey" priority="31" />
+      <Item value="tr" priority="95" />
+      <Item value="TestMethods`0" priority="31" />
+      <Item value="TestDelegate`0" priority="95" />
+      <Item value="ContainsKeyTest100`0" priority="31" />
+      <Item value="continue" priority="31" />
+      <Item value="items" priority="223" />
+      <Item value="GetEnumerator`0" priority="31" />
+      <Item value="pair" priority="63" />
+      <Item value="IEnumerable" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChainedHashMapImplementation.KeyValuePair`2">
+      <Item value="key" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChainedHashMapImplementation.ChainedHashMap+ToInteger`1">
+      <Item value="Method" priority="26" />
+      <Item value="GetHashCode`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChainedHashMapImplementation.ChainedHashMap">
+      <Item value="_hashFunction" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="130" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Substring`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="647" />
+      <Item value="TryParse`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ChainedHashMapImplementation.ChainedHashMap">
+      <Item value="ToInteger" priority="26" />
+      <Item value="_tableSize" priority="26" />
+      <Item value="TableSize" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="647" />
+      <Item value="Value" priority="404" />
+      <Item value="Second" priority="26" />
+      <Item value="Equals`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.LinkedList`1">
+      <Item value="AddLast`0" priority="162" />
+      <Item value="AddFirst`0" priority="569" />
+      <Item value="Count" priority="53" />
+      <Item value="Contains`0" priority="107" />
+      <Item value="Clear`0" priority="53" />
+      <Item value="RemoveFirst`0" priority="26" />
+      <Item value="First" priority="80" />
+      <Item value="Key" priority="53" />
+      <Item value="ElementAt`1" priority="26" />
+      <Item value="AddBefore`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="189" />
+      <Item value="Equals`0" priority="26" />
+      <Item value="GetHashCode`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="Equals`0" priority="26" />
+      <Item value="ToString`0" priority="458" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="323" />
+      <Item value="Count" priority="26" />
+      <Item value="Contains`0" priority="134" />
+      <Item value="AddFirst`0" priority="53" />
+      <Item value="GetEnumerator`0" priority="107" />
+      <Item value="GetHashCode`0" priority="26" />
+      <Item value="ElementAt`1" priority="80" />
+      <Item value="AddRange`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChainedHashMapImplementation.ChainedHashMap`2">
+      <Item value="_hashTable" priority="26" />
+      <Item value="Add`0" priority="80" />
+      <Item value="_hashfunction" priority="53" />
+      <Item value="_tableSize" priority="27" />
+      <Item value="_hashTableList" priority="26" />
+      <Item value="Count" priority="55" />
+      <Item value="ListOnly" priority="53" />
+      <Item value="ListLinkedList" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Count" priority="26" />
+      <Item value="ContainsKey`0" priority="80" />
+      <Item value="Clear`0" priority="26" />
+      <Item value="Remove`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Collections.Generic.Dictionary`2">
+      <Item value="Dictionary&lt;TKey,LinkedListNode&lt;KeyValuePair&lt;TKey,TValue&gt;&gt;&gt;" priority="25" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.LinkedListNode`1">
+      <Item value="Value" priority="26" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsTrue`0" priority="26" />
+      <Item value="AreEqual`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.ICollection`1">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChainedHashMapImplementation.ChainedHashMap`2+ToInteger`1">
+      <Item value="Invoke`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HashFunctions">
+      <Item value="LastTwoDigit`0" priority="26" />
+      <Item value="LastThreeDigit`0" priority="26" />
+      <Item value="SumDigits`0" priority="26" />
+      <Item value="HashModuloApply`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ChainedHashMapImplementation.HashFunctions">
+      <Item value="HashModuloApply`0" priority="502" />
+      <Item value="SumDigits`0" priority="111" />
+      <Item value="LastTwoDigit`0" priority="167" />
+      <Item value="LastThreeDigit`0" priority="83" />
+      <Item value="HashModuloConstant" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IDictionary`2">
+      <Item value="Contains`0" priority="26" />
+      <Item value="ContainsKey`0" priority="53" />
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Next`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int16">
+      <Item value="Parse`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="Start`0" priority="53" />
+      <Item value="Stop`0" priority="53" />
+      <Item value="Reset`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChainedHashMapImplementation.TestMethods">
+      <Item value="ContainsKeyPerformance`0" priority="26" />
+      <Item value="Add100`0" priority="26" />
+      <Item value="TestModulo100003`0" priority="27" />
+      <Item value="Add1000`0" priority="26" />
+      <Item value="Add10000`0" priority="53" />
+      <Item value="TestContainsLastThree100`0" priority="26" />
+      <Item value="TestContainsLastDigiSum100`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Close`0" priority="80" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #2</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods" type="NUnitTestFixtureElement" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest" type="NUnitTestFixtureElement" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.AddDirectlyToDictionaryTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="AddDirectlyToDictionaryTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.AddDuplicateTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="AddDuplicateTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.AddKeyValueTest100" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="AddKeyValueTest100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.AddKeyValueTest1000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="AddKeyValueTest1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.AddKeyValueTest10000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="AddKeyValueTest10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.AddKeyValueTest100000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="AddKeyValueTest100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.AddNullValueTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="AddNullValueTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.AddtoTTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="AddtoTTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ClearItemsTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ClearItemsTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ContainsKeyTest100" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ContainsKeyTest100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ContainsKeyTest1000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ContainsKeyTest1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ContainsKeyTest10000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ContainsKeyTest10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ContainsKeyTest100000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ContainsKeyTest100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ContainsKeyTest1000000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ContainsKeyTest1000000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ContainsKeyTest10000000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ContainsKeyTest10000000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ContainsTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ContainsTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.CopyToTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="CopyToTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.CountTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="CountTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.DigiSum100Num100" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="DigiSum100Num100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.DigiSum100Num1000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="DigiSum100Num1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.DigiSum100Num10000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="DigiSum100Num10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.DigiSum100Num100000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="DigiSum100Num100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.EnumeratorTest1" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="EnumeratorTest1" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.EnumeratorTest2" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="EnumeratorTest2" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo100003Size100003Num100" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo100003Size100003Num100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo100003Size100003Num1000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo100003Size100003Num1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo100003Size100003Num10000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo100003Size100003Num10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo100003Size100003Num100000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo100003Size100003Num100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo10007Size10007Num100" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo10007Size10007Num100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo10007Size10007Num1000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo10007Size10007Num1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo10007Size10007Num10000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo10007Size10007Num10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo10007Size10007Num100000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo10007Size10007Num100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo1009Size1009Num100" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo1009Size1009Num100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo1009Size1009Num1000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo1009Size1009Num1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo1009Size1009Num10000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo1009Size1009Num10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo1009Size1009Num100000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo1009Size1009Num100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo101Size101Num100" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo101Size101Num100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo101Size101Num1000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo101Size101Num1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo101Size101Num10000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo101Size101Num10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.HashModulo101Size101Num100000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="HashModulo101Size101Num100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.IsReadOnlyTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="IsReadOnlyTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ItemsTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ItemsTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.KeysTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="KeysTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.LastThreeSize1000Num100" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="LastThreeSize1000Num100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.LastThreeSize1000Num1000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="LastThreeSize1000Num1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.LastThreeSize1000Num10000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="LastThreeSize1000Num10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.LastThreeSize1000Num100000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="LastThreeSize1000Num100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.LastTwoSize100Num100" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="LastTwoSize100Num100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.LastTwoSize100Num1000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="LastTwoSize100Num1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.LastTwoSize100Num10000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="LastTwoSize100Num10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.TestMethods.LastTwoSize100Num100000" ParentId="ChainedHashMapImplementation.TestMethods" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.TestMethods" MethodName="LastTwoSize100Num100000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.RemoveElementByKey100" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="RemoveElementByKey100" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.RemoveElementByKey1000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="RemoveElementByKey1000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.RemoveElementByKey10000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="RemoveElementByKey10000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.RemoveElementByKey10000000" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="RemoveElementByKey10000000" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.RemoveFromDictionaryDirect" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="RemoveFromDictionaryDirect" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.TryGetValueTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="TryGetValueTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+        <UnitTestElement Provider="nUnit" Id="ChainedHashMapImplementation.UnitTest.ValuesTest" ParentId="ChainedHashMapImplementation.UnitTest" type="NUnitTestElement" TypeName="ChainedHashMapImplementation.UnitTest" MethodName="ValuesTest" Project="35176E14-791C-4124-A8B1-BE6B78EA65F2" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>

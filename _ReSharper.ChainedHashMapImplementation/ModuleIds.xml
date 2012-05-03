@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="35176E14-791C-4124-A8B1-BE6B78EA65F2" ModuleId="ChainedHashMapImplementation" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib_1" />
+</Modules>
